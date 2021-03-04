@@ -184,11 +184,14 @@
         <div class="container mx-auto px-4">
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-              <img
-                alt="..."
-                class="max-w-full rounded-lg shadow-lg"
-                src="https://www.orbit.es/wp-content/uploads/2019/09/chatbots.jpg"
-              />
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/LQgSMtzFA30"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
             </div>
             <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
